@@ -12,4 +12,6 @@ function moveZeros(arr) {
       arr.push(0);
     }
     return arr;
-  }
+}
+
+console.log(moveZeros([1,6,3,7,4,0,0,4,2,7,0,45,4]))

@@ -4,4 +4,6 @@ class SmallestIntegerFinder {
       var lowNum = Math.min(...args);
       return lowNum
     }
-  }
+}
+
+console.log(findSmallestInt([5,2,7,3,5,0]))

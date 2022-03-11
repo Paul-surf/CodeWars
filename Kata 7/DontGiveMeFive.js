@@ -8,4 +8,6 @@ function dontGiveMeFive(start, end) {
       }
     }
     return result
-  }
+}
+
+console.log(dontGiveMeFive(5, 29))
