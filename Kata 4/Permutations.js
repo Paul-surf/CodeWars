@@ -19,3 +19,5 @@ let permutations = (string) => {
     }
     return permutationsArray
   }
+
+  console.log(permutations("king"))
