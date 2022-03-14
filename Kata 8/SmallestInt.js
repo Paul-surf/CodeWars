@@ -6,4 +6,4 @@ class SmallestIntegerFinder {
     }
 }
 
-console.log(findSmallestInt([5,2,7,3,5,0])) 
+console.log(findSmallestInt([5,2,7,3,5,0]))
