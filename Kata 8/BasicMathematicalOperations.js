@@ -4,4 +4,4 @@ function basicOp(operation, value1, value2)
   return rules[operation]
 }
 
-// Depending on the task, it will give the proper operator 
+// Depending on the task, it will give the proper operator
